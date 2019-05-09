@@ -1,2 +1,3 @@
-# Jeu_de_la_vie
-Jeu de la vie de John Horton Conway
+# Jeu de la vie
+Simulateur du jeu de la vie de John Horton Conway.\
+Utilisation de `PyQt5` pour faire une interface graphique.
